@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
